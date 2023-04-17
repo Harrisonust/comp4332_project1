@@ -3,3 +3,4 @@ __pycache__/
 data/*_*.csv
 data/word_embed/
 test.ipynb
+.DS_Store
